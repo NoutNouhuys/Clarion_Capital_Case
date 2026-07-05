@@ -1,0 +1,6 @@
+# Direct dependencies (transitive deps resolved by pip).
+# Pinned for deterministic reproduction of the Part-A/B/C results.
+pandas==3.0.3
+numpy==2.5.0
+matplotlib==3.11.0
+pytest==9.1.1
